@@ -15,4 +15,6 @@ Belajar Progress git ( 42% cuy )
 * belajar pemrograman python ( 50% )
 
 
-tes konflik bruh==============
+
+Progress belajar, semangatt
+
