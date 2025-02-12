@@ -13,3 +13,6 @@ Belajar Progress git ( 42% cuy )
 *13 Februari 2025**<br>
 * belajar dasar AI ( progress 100% )
 * belajar pemrograman python ( 50% )
+
+
+Sekarang belajar bagaimana cara branch
