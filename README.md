@@ -6,5 +6,6 @@ Belajar Kelas BOTCAMP DBS, ( progres 21% )
 * Belajar Logika Pemrograman dan tipsnya membikin program yang baik.
 
 **12 Februari 2025**<br>
+Belajar Progress git ( 42% cuy )
 * Belajar mengenai git dan github untuk VCS
 * Belajar basic basic git 
