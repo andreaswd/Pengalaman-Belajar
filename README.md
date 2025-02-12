@@ -17,5 +17,4 @@ Belajar Progress git ( 42% cuy )
 
 
 Progress belajar, semangatt
-aku aslinya 2 orang awkwkwkw<br>
 
