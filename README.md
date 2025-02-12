@@ -15,4 +15,4 @@ Belajar Progress git ( 42% cuy )
 * belajar pemrograman python ( 50% )
 
 
-Sekarang belajar bagaimana cara branch
+tes konflik bruh==============
